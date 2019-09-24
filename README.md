@@ -1,5 +1,5 @@
 # Python lesson
 ## Author 
-Sebastian
+Sebastian Jung
 ## Date
-2019-09-24
+2019-09-24 Tuesday
